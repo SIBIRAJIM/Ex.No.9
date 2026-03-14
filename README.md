@@ -204,11 +204,3 @@ As prompt complexity increases:
 
 
 
-
-
-
-
-
-
-# Result:
-
